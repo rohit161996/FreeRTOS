@@ -9,6 +9,9 @@
 | 04  | RTOS vs GPOS - Latency                                                    | ✔️          |
 | 05  | What is Multi-tasking?                                                    | ✔️          |
 |     |                                                                           |            |
+|     | **04. Downloading and Installing FreeRTOS**                               | **Status** |
+| 01  | Downloading FreeRTOS Kernel Source                                        | ✔️          |
+|     |                                                                           |            |
 |     | **05. Creating FreeRTOS based project for STM32 MCUs**                    | **Status** |
 | 01  | Creating new STM32 project                                                | ✔️          |
 | 02  | Adding FreeRTOS kernel source to project                                  | ✔️          |
