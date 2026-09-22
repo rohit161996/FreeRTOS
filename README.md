@@ -15,6 +15,8 @@
 |     | **05. Creating FreeRTOS based project for STM32 MCUs**                    | **Status** |
 | 01  | Creating new STM32 project                                                | ✔️          |
 | 02  | Adding FreeRTOS kernel source to project                                  | ✔️          |
+| 03  | Include Path Settings Files added                                         | ✔️          |
+| 04  | FreeRTOSConfig.h and other settings                                       | ✔️          |
 | 06  | Adding FreeRTOS to STM32 Project Using STM32CubeIDE's Graphical Interface | ✔️          |
 |     |                                                                           |            |
 |     | **06. FreeRTOS Task Creation**                                            | **Status** |
