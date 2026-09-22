@@ -23,5 +23,12 @@
 |     | **06. FreeRTOS Task Creation**                                            | **Status** |
 | 01  | What is a Task?                                                           | ✔️          |
 | 02  | FreeRTOS task creation API                                                | ✔️          |
+| 03  | Task priorities in FreeRTOS                                               | ✔️          |
+| 04  | Exercise 1 - Coding                                                       |            |
+| 05  | Scheduling Policies                                                       |            |
+| 06  | Exercise 1 - Coding continued...                                          |            |
+| 07  | Exercise 1 - Testing                                                      |            |
+| 08  | Behind the scenes of Task Creation...                                     |            |
+| 09  | Ultimate Quiz on FreeRTOS Task Creation                                   |            |
 | --- | -----------------------------------                                       | ---        |
 
