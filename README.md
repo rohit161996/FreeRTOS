@@ -17,6 +17,7 @@
 | 02  | Adding FreeRTOS kernel source to project                                  | ✔️          |
 | 03  | Include Path Settings Files added                                         | ✔️          |
 | 04  | FreeRTOSConfig.h and other settings                                       | ✔️          |
+| 05  | Time base selection for STM32+FreeRTOS project                            | ✔️          |
 | 06  | Adding FreeRTOS to STM32 Project Using STM32CubeIDE's Graphical Interface | ✔️          |
 |     |                                                                           |            |
 |     | **06. FreeRTOS Task Creation**                                            | **Status** |
